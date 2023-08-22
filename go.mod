@@ -1,4 +1,4 @@
-module developments/modules/opshins
+module github.com/SupremeERG/opshins
 
 go 1.20
 
